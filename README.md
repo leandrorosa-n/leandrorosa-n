@@ -2,6 +2,7 @@
 
 💼 Analista de Dados com foco em automação de processos fiscais e geração de valor através da tecnologia.
 
+
 ### 🚀 Atualmente
 - 📊 Desenvolvendo soluções de Análise de Dados (SQL, Power BI, Power Query e Python) para a área Fiscal
 - 🤖 Criando automações em Python para aumentar a produtividade operacional
@@ -16,6 +17,10 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leandrorosa&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leandrorosa&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leandrorosa&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=leandrorosa&theme=dracula&utcOffset=-3)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leandrorosa&theme=dracula)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Leandro-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
@@ -28,8 +33,15 @@
   <img align="center" alt="Leandro-Git" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">
   <img align="center" alt="Leandro-AWS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
   <img align="center" alt="Leandro-Azure" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg">
+ 
 
 </div>
+
+## 🎯 Áreas de Interesse
+
+📊 Análise de Dados 
+🤖 Inteligência Artificial  
+☁️ Engenharia de Dados  
 
 ##
 
