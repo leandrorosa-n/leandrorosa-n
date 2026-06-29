@@ -1,48 +1,67 @@
-# Olá, eu sou Leandro Rosa! 👋
+# 👋 Olá, eu sou **Leandro Rosa**
 
-💼 Analista Tributário e estudante em Dados com foco em automação de processos fiscais e geração de valor através da tecnologia.
+💼 **Analista Tributário** | 📊 **Estudante em Dados**  
+Com foco em **automação de processos fiscais** e **geração de valor através da tecnologia**.
 
+---
 
-### Atualmente
-- Desenvolvendo soluções de Análise de Dados (SQL, Power BI, Power Query e Python) para a área Fiscal
-- Criando automações em Python para aumentar a produtividade operacional
-- Estudando Engenharia de Dados e Arquiteturas de Dados Modernas com Agentes de IA
-- Databricks, Apache Spark, NoSQL, APIs, LLMs, Redshift, AWS, Azure
-- Atuando em projetos de dados e AIs
+## 🚀 O que estou fazendo atualmente
+- **[Análise de Dados](ca://s?q=Análise_de_Dados)**: soluções em SQL, Power BI, Power Query e Python aplicadas à área Fiscal  
+- **[Automação em Python](ca://s?q=Automação_em_Python)**: aumento da produtividade operacional com scripts inteligentes  
+- **[Engenharia de Dados](ca://s?q=Engenharia_de_Dados)**: estudo de arquiteturas modernas com agentes de IA  
+- Experiência prática em **Databricks, Apache Spark, NoSQL, APIs, LLMs, Redshift, AWS e Azure**  
+- Participação ativa em **projetos de dados e inteligência artificial**
 
-### Resultados
-- Mais de 92% de ganho de produtividade em processos automatizados
-- Redução significativa de atividades manuais e retrabalho
-- Apoio à tomada de decisão baseada em dados
+---
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leandrorosa&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leandrorosa&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leandrorosa&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=leandrorosa&theme=dracula&utcOffset=-3)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leandrorosa&theme=dracula)
+## 📈 Resultados alcançados
+- **+92% de produtividade** em processos automatizados  
+- **Redução significativa** de atividades manuais e retrabalho  
+- **Tomada de decisão orientada por dados**, apoiando estratégias fiscais e operacionais  
 
-## Tecnologias
+---
+
+## 🛠️ Tecnologias
 <div style="display: inline_block"><br>
-  <img align="center" alt="Leandro-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Leandro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leandro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Leandro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Leandro-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Leandro-Postgres" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
-  <img align="center" alt="Leandro-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
-  <img align="center" alt="Leandro-Git" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">
-  <img align="center" alt="Leandro-AWS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
-  <img align="center" alt="Leandro-Azure" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg">
- 
-
+  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="PowerBI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Postgres" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
+  <img align="center" alt="Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">
+  <img align="center" alt="AWS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
+  <img align="center" alt="Azure" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg">
 </div>
 
-## Áreas de Interesse
+---
 
-📊 Análise de Dados 🤖 Inteligência Artificial  ☁️ Engenharia de Dados  
+## 🎯 Áreas de Interesse
+- 📊 **[Análise de Dados](ca://s?q=Análise_de_Dados)**  
+- 🤖 **[Inteligência Artificial](ca://s?q=Inteligência_Artificial)**  
 
-##
 
+---
+
+## 📊 Estatísticas Modernas
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leandrorosa-n&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff&area=true&hide_border=true)
+![Commits por Hora](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=leandrorosa-n&theme=github_dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leandrorosa-n&theme=tokyonight-duo)
+![Top Languages Donut](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leandrorosa-n&theme=github_dark)
+
+
+
+
+
+
+
+
+
+---
+
+
+## 🌐 Conecte-se comigo
 <div>
   <a href="https://www.instagram.com/leandrorosa.n/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -54,5 +73,3 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
 </div>
-
-
